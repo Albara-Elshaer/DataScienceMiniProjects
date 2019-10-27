@@ -1,1 +1,2 @@
+**_In this mini project, I tackeled with real data, rather than simulated data, and answer some relevant real-world business problems using real world data. I used the central limit theorem to apply frequentist techniques to answer questions that pertain to non-normal distributed data. To address specific business questions, I formed and framed the null and alternative hypotheses, tested hypothesis using t-test, and performed inference using the data._**
 
