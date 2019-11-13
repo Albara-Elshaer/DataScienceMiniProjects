@@ -1,7 +1,9 @@
-# **Welcome! This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization.**
+# **Welcome! 
+### This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization.**
 
-## Data Wrangling
-Practice cleaning/tidying up messy data using pandas - API, JSON, raw text and working with databases.
+#### Data Wrangling
+Practice cleaning/tidying up messy data using pandas - API, JSON, raw text and working with databases:
+* ![World Bank Development Projects](https://github.com/Albara-Elshaer/DataScienceMiniProjects/blob/master/Data_Wrangling/JSON/World%20Bank%20Data%20.ipynb)
 
 ## Inferential Statistics
 Useful inferential statistics for drawing conclusions and predicting outcomes. Contains three miniprojects:
