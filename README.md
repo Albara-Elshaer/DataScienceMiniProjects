@@ -1,5 +1,5 @@
 # **Welcome to Albara Elshaer's Data Science Repository!** 
-### This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization. You can click on the links below that will take you directly to my Python Jupyter notebook or you can click on the folders above. To read a quick synopsis of the project please click on the folders and you will see a README section.  
+### This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization. You can click on the links below that will take you directly to my Python Jupyter notebook or you can click on the folders above. To read a quick synopsis of the project please click on the folders then select the specific project you want to see.  
 
 ### Data Wrangling Projects
 Practice cleaning/tidying up messy data using pandas - API, JSON, raw text and working with databases:
