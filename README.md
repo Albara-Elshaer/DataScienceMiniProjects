@@ -1,5 +1,5 @@
 # **Welcome to Albara Elshaer's Data Science Repository!** 
-### This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization. You can click on the links below that will take you directly to my Python Jupyter notebook or you can manually search by project area focus through the folders created above. 
+### This repository contains my data science mini-projects, ranging from data wrangling and statistical inference to machine learning and advanced data visualization. You can click on the links below that will take you directly to my Python Jupyter notebook or you can click on the folders above. To read a quick synopsis of the project please click on the folders and you will see a README section.  
 
 ### Data Wrangling Projects
 Practice cleaning/tidying up messy data using pandas - API, JSON, raw text and working with databases:
@@ -8,7 +8,10 @@ Practice cleaning/tidying up messy data using pandas - API, JSON, raw text and w
 
 ### Inferential Statistics Projects
 Useful inferential statistics for drawing conclusions and predicting outcomes:
-
+* [Inferential Statistics](https://github.com/Albara-Elshaer/DataScienceMiniProjects/blob/master/Inferential%20_Statistics/1.%20Inferential%20Statistics/Inferential%20Statistics.ipynb)
+* [Hospital Medical Charges](https://github.com/Albara-Elshaer/DataScienceMiniProjects/blob/master/Inferential%20_Statistics/2.%20Hospital%20Medical%20Charges/Hospital%20Medical%20Charges.ipynb)
+* [Hospital Medical Charges - Bootstrapping](https://github.com/Albara-Elshaer/DataScienceMiniProjects/blob/master/Inferential%20_Statistics/3.%20Hospital%20Medical%20Charges%20-%20Bootstrapping/Hospital%20Medical%20Charges%20-%20Bootstrapping.ipynb)
+* [Hospital Medical Charges - Bayesian](https://github.com/Albara-Elshaer/DataScienceMiniProjects/blob/master/Inferential%20_Statistics/4.%20Hospital%20Medical%20Charges%20-%20Bayesian/Hospital%20Medical%20Charges%20-%20Bayesian.ipynb)
 
 
 ### Machine Learning Projects 
